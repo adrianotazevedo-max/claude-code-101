@@ -1,0 +1,14 @@
+Dados de Versão - Claude Code
+==============================
+
+Modelo:        Claude Sonnet 4.6
+Model ID:      claude-sonnet-4-6
+Família:       Claude 4.X
+Desenvolvido:  Anthropic
+Data gerado:   2026-04-23
+
+Interface:     Claude Code (CLI)
+Plataforma:    macOS (darwin 25.4.0)
+Shell:         zsh
+
+Conhecimento até: Agosto de 2025
