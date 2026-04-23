@@ -1,6 +1,46 @@
 # Resumos de Sessão
 
 ---
+### 2026-04-23 16:11
+---
+
+## 1. Primary Request and Intent
+- Listar repositórios locais e do GitHub.
+- Baixar (clonar) os repositórios e criar as pastas no disco.
+
+## 2. Key Technical Concepts
+- GitHub CLI (`gh`) para listar e clonar repositórios
+- `gh repo clone` para clonagem
+- Navegação no sistema de arquivos macOS em disco externo (`/Volumes/512Ext/`)
+
+## 3. Files and Code
+- `/Volumes/512Ext/Aprendendo Claude Code/claude-code-101/` — clonado de `adrianotazevedo-max/claude-code-101`, com conteúdo
+- `/Volumes/512Ext/Aprendendo Claude Code/aprendendoclaudecode/` — clonado de `adrianotazevedo-max/aprendendoclaudecode`, repositório vazio (sem commits)
+
+## 4. Errors and Fixes
+- Nenhum erro. Apenas aviso esperado: `aprendendoclaudecode` disparou "You appear to have cloned an empty repository." (repositório sem commits).
+
+## 5. Problem Solving
+- Não havia repositórios git locais no diretório de trabalho.
+- Identificados 2 repositórios no GitHub da conta `adrianotazevedo-max`.
+- Ambos clonados com sucesso.
+
+## 6. All User Messages
+- "liste meus repositorios"
+- "baixe os repositorios e crie as pastas"
+- "vc está atualizando o resumos.md?"
+- "sim, eu já dei as instruçoes anteriormente do que vc deveria fazer"
+
+## 7. Pending Tasks
+- Nenhuma.
+
+## 8. Current Work
+Dois repositórios clonados em `/Volumes/512Ext/Aprendendo Claude Code`: `claude-code-101/` e `aprendendoclaudecode/`.
+
+## 9. Optional Next Step
+Nenhum próximo passo pendente.
+
+---
 ### 2026-04-23 12:12
 ---
 
